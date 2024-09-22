@@ -47,7 +47,7 @@ void tambahKatalog(){
         cout<<"Katalog tidak ditambahkan."<<endl;
     }
     else{
-        cout<<"Input anda salah"<<endl;
+        cout<<"Input tidak valid."<<endl;
     }
 }
 
